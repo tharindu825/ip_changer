@@ -30,10 +30,12 @@ Internet connectivity to download Tor and related dependencies.
 Installation
 
 Clone this repository or download the ip-changer.sh file.
-Make the script executable:chmod +x ip-changer.sh
+Make the script executable:
+chmod +x ip-changer.sh
 
 
-Run the script with sudo:sudo ./ip-changer.sh
+Run the script with sudo:
+sudo ./ip-changer.sh
 
 
 
